@@ -1,0 +1,12 @@
+{
+    "AppSettings": {
+        "SiteTitle": "WebApplication4"
+    },
+    "Data": {
+        "DefaultConnection": {
+            //"ConnectionString": "Server=(WIN-47ET6VM3VUS);Database=prueba;Trusted_Connection=True;MultipleActiveResultSets=true"
+            "DataStore" : "EntityFramework.SqlServer",
+            "Connectionstring": "Data Source=.;Initial Catalog=pruebax;Integrated Security=True;"
+        }
+    }
+}
